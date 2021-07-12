@@ -1,0 +1,17 @@
+.weather-block {
+    width: 165px;
+    height: 200px;
+    border: 1px solid #666666;
+}
+
+.weather-block > h2 {
+    font-size: 28px;
+}
+
+.weather-block > img {
+    width: 50px;
+}
+
+.weather-block > p {
+    font-size: 20px;
+}
